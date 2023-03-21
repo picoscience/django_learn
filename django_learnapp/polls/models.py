@@ -1,6 +1,7 @@
 """
 La llave primaria ya se genera con la herencia
-
+Para iniciar un proyecto:
+----> django-admin startproject nombre_de_tu_proyecto
 Para inicializar el servidor en el puerto 5000, por defecto tiene 
 el 8000:
 ----> py manage.py runserver 5000
